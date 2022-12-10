@@ -12,6 +12,9 @@
             <li><a href="mailto:amirhossein.shahraki@pm.me" target="blank">
                 <img align="center" src="https://repository-images.githubusercontent.com/399033486/dd9dec59-2cff-4356-b34a-a1b677c67fe6" height="40" width="40"/>
             </a></li>
+        <li><a href="mailto:amirhossein.shahraki@pm.mtwitter.com/AH_Shahrakie" target="blank">
+                <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" height="30" width="40"/>
+            </a></li>
     </ul>
   </li>
 </ul>
